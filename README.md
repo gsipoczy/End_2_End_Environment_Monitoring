@@ -1,6 +1,6 @@
 # The SYGR End to End Environment Monitoring
 
-[SYGR](https://www.sygr.ch/) End to End Environment monitoring is an add-on for the SYGR Automation System.
+SYGR End to End Environment monitoring is an add-on for the [SYGR Automation System](https://www.sygr.ch/).
 
 It was designed and created according to the environment (temperature, etc.) monitoring requirements of the World's leading pharmaceutical companies.
 
